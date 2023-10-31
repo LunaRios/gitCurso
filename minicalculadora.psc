@@ -28,7 +28,7 @@ Algoritmo minicalculadora
 	 num_res <- num_a / num_b;
 	 Escribir "La división de ", num_a, " y de ", num_b, " es de ", num_res;
  SiNo
-	 Escribir "Esta operación no está permitida.";
+	 Escribir "La operación no está permitida.";
  FinSi
 
 FinAlgoritmo
